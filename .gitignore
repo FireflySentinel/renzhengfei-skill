@@ -1,0 +1,8 @@
+# Claude Code / Skills tooling (local installs, not part of the repo)
+.agents/
+.claude/skills/
+skills/
+skills-lock.json
+
+# OS
+.DS_Store
